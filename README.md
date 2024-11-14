@@ -40,5 +40,10 @@ Driven by a passion for innovation and a love for solving complex problems, I th
 ![Static Badge](https://img.shields.io/badge/Next.js-blue?logo=Next.js)
 ![Static Badge](https://img.shields.io/badge/django--red?logo=django)
 ![Static Badge](https://img.shields.io/badge/vue.js--red?logo=vue.js)
+![Static Badge](https://img.shields.io/badge/verilog--blue?logo=verilog)
+![Static Badge](https://img.shields.io/badge/GTKwave-green?logo=GTKwave)
+
+
+
 
 
