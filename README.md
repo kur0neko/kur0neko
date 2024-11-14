@@ -43,7 +43,7 @@ Driven by a passion for innovation and a love for solving complex problems, I th
 ![Static Badge](https://img.shields.io/badge/verilog--blue?logo=verilog)
 ![Static Badge](https://img.shields.io/badge/GTKwave-green?logo=GTKwave)
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kur0neko&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kur0neko&layout=donut&theme=react))
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kur0neko&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kur0neko&layout=donut&theme=merko))
 
 
