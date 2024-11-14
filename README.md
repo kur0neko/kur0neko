@@ -6,7 +6,7 @@ Driven by a passion for innovation and a love for solving complex problems, I th
 <br/>
 
 ### About me:
-- My hobbies are photographer and DJ
+- My hobbies: photographer and DJ
 - Love adventure and learn something new
 - Hit me up if you want to collab working on any programing projects
 
