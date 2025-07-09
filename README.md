@@ -1,4 +1,4 @@
-![Header](src/github-header-image.png)
+![Header](src/Github-header-banner.gif)
 <a href='https://www.linkedin.com/in/nathan-panyangnoi/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 Driven by a passion for innovation and a love for solving complex problems, I thrive in dynamic environments where I can tackle challenges with creativity and determination.
